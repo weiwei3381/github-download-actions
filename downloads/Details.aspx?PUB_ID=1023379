@@ -1,0 +1,583 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Army Publishing Directorate
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta content="Army Regulation, Publication, USAPA, APD, Series, books, electronic pub, e-pub, 670-1, United States Army Publishing, XML pubs, soldier, DA, General Order, REG, MEMO, pamphlets, official publication, Multi-Service" name="Keywords" /><meta content="Army DA administrative publications and forms by the Army Publishing Directorate APD. The latest technologies high quality electronic pubs and forms view U.S. Army Regulations and DA Forms." name="Description" />
+
+
+
+<!-- Google Tag Manager -->
+
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5RK5XJ6');</script>
+
+
+<link rel="stylesheet" href="/css/APDStyles_V2_11_1.css" />
+
+    <script src="/js/uswds-init.min.js"></script>
+
+
+    <style>
+        .headerfixed {position: -webkit-sticky;position: sticky;top:0;z-index:1;width:100%;}
+        .divheader{font-size:0;}
+    </style>
+
+    
+</head>
+
+<body tabindex="0"> <!--<body tabindex="0"   style="position:relative;top:250px;"> -->
+<div class="headerfixed divheader"> <!-- You close </div> right after </header> -->
+
+<!--<a class="usa-skipnav" href="#main-content">Skip to main content</a>-->
+    
+<section class="usa-banner" aria-label="Official government website">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto">
+          <img class="usa-banner__header-flag" src="/img/us_flag_small.png" alt="U.S. flag" />
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto">
+          <p class="usa-banner__header-text" style="color:white;font-weight:bold;">An official website of the United States government</p>
+          <p class="usa-banner__header-action" aria-hidden="true" style="color:white;font-weight:bold;">Here’s how you know</p>
+        </div>
+        <button class="usa-accordion__button usa-banner__button"
+          aria-expanded="false" aria-controls="gov-banner">
+          <span class="usa-banner__button-text" style="color:white;font-weight:bold;">Here’s how you know</span>
+        </button>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/img/icon-dot-gov.svg" role="img" alt="" aria-hidden="true" />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>
+                Official websites use .mil
+</strong>
+              <br/>
+              A <strong>.mil</strong> website belongs to an official government organization in the United States.
+
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/img/icon-https.svg" role="img" alt="" aria-hidden="true" />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>
+                Secure .mil websites use HTTPS
+</strong>
+              <br/>
+              A <strong>lock</strong> (
+<span class="icon-lock">
+    <svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-title banner-lock-description" focusable="false">
+    <title id="banner-lock-title">Lock</title>
+        <desc id="banner-lock-description">A locked padlock</desc>
+        <path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/>
+    </svg>
+</span>
+) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+    
+<div class="usa-overlay"></div>
+
+<div class="usa-navbar" style="width:100%;height:auto;"> <img src="/img/APDImages/APD_Header.png" role="img" alt="APD Logo"  style="width:100%;" /> </div>
+   
+<div class="usa-navbar"  style="border: none;">
+    <div class="usa-logo" id="extended-mega-logo"><em class="usa-logo__text"><a href="/" title="Home1" aria-label="Home1"></a></em>
+    </div>
+    <button class="usa-menu-btn">Menu</button>
+</div>
+
+<div style="background: #ccb166;"> <!-- You can add style here or inside <headerfixed> at the top applies golden background color to Megamenu -->
+
+<header class="usa-header usa-header--extended">
+ 
+<nav aria-label="Primary navigation" class="usa-nav">
+   
+   <div class="usa-nav__inner"><button class="usa-nav__close"><img src="/img/usa-icons/close.svg" role="img" alt="close" /></button>
+
+    <ul class="usa-nav__primary usa-accordion">
+
+    <!-- HOME link is created here -->
+    <li class="usa-nav__primary-item"><a class="usa-nav__link" href="/default.aspx"><span style="font-size:18px;">HOME</span></a></li>
+
+    <!-- FORMS button is created here -->
+    <li class="usa-nav__primary-item">
+    <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="extended-mega-nav-section-one"><span style="font-size:18px;">FORMS</span></button>
+    <div id="extended-mega-nav-section-one" class="usa-nav__submenu usa-megamenu">
+        <div class="grid-row grid-gap-4">
+             
+            <div class="usa-col">
+              <ul class="usa-nav__submenu-list">  
+                  <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">DA Forms/Labels/Posters</li>             
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/DAForm.aspx" target="child" class="">DA Forms</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/DALabel.aspx" target="child" class="">DA Labels</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/DAPoster.aspx" target="child" class="">DA Poster</a></li>
+                            
+              </ul>
+            </div>        
+             
+             <div class="usa-col">
+              <ul class="usa-nav__submenu-list">              
+                  <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Supplemental Forms Resources</li> 
+                  <li class="usa-nav__submenu-item"><a href="https://www.esd.whs.mil/Directives/forms/" target="child" class="">DoD Forms</a></li>     
+                  <li class="usa-nav__submenu-item"><a href="https://www.gpo.gov/how-to-work-with-us/agency/services-for-agencies" target="child" class="">GPO/JCP Forms</a></li>
+                  <li class="usa-nav__submenu-item"><a href="https://www2.oge.gov/"  target="child" class="">OGE Forms</a></li>
+                  <li class="usa-nav__submenu-item"><a href="https://www.gsa.gov/reference/forms" target="child" class="">GSA/SF/OF Forms</a></li>
+                   <li class="usa-nav__submenu-item"><a href="https://www.opm.gov/forms/OPM-forms" target="child" class="">OPM Forms</a></li>
+
+              </ul>
+            </div>
+
+                        <div class="usa-col">
+              <ul class="usa-nav__submenu-list">  
+                  <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Forms Management</li>             
+                    <li class="usa-nav__submenu-item"><a href="/Forms/FormMgmtServices.aspx" target="child" class="">Forms Management Mission</a></li>
+                            
+              </ul>
+            </div> 
+
+
+
+             <div class="usa-col">
+              <ul class="usa-nav__submenu-list">
+                  <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">HQDA Forms</li> 
+                  <li class="usa-nav__submenu-item"><a href="https://oaacustomer.army.mil/cac/docs/PG/HQDAFORM5.pdf" target="child" class="">HQDA Forms 5</a></li>
+                  <li class="usa-nav__submenu-item"><a href="https://oaacustomer.army.mil/cac/docs/PG/HQDAFORM11.pdf" target="child" class="">HQDA Forms 11 (Only Works If Downloaded)</a></li>
+                  <li class="usa-nav__submenu-item"><a href="https://oaacustomer.army.mil/cac/docs/PG/HQDAFORM43.pdf" target="child" class="">HQDA Forms 43 (Only Works If Downloaded)</a></li>
+          
+              </ul>
+            </div>
+         </div>
+    </div>
+    </li>
+     
+    <!-- PUBLICATIONS button is created here -->
+    <li class="usa-nav__primary-item">
+    <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="extended-mega-nav-section-two"><span style="font-size:18px;">PUBLICATIONS</span></button>
+    <div id="extended-mega-nav-section-two" class="usa-nav__submenu usa-megamenu">
+        <div class="grid-row grid-gap-4">
+            <div class="usa-col">
+              <ul class="usa-nav__submenu-list">
+                  <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Administrative</li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/ALARACT.aspx" target="child" class="">AL - Army ALARACT Messages</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/ArmyDir.aspx" target="child" class="">Army Dir - Army Directive</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/AR.aspx"  target="child" class="">AR - Army Regulations</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/AGO.aspx" target="child" class="">AGO - Army General Orders</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/DAMEMO.aspx" target="child" class="">DA Memo - Memorandums</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/HQDAPolicyNotice.aspx" target="child" class="">HQDA Policy Notices</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/PAM.aspx" target="child" class="">PAM - DA Pamphlets</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/PogProponent.aspx" target="child" class="">Principal Official Guidance</a></li>      
+              </ul>
+
+
+            </div>
+            <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                  <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Technical & Equipment</li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/EM.aspx" target="child" class="">EM - Electronic Media</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/FT.aspx" target="child" class="">FT - Firing Table</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/LO.aspx" target="child" class="">LO - Lubrication Orders</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/MWO.aspx" target="child" class="">MWO - Modification Work Orders</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/SB.aspx" target="child" class="">SB - Supply Bulletins</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/SC.aspx" target="child" class="">SC - Supply Catalogs</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TB.aspx" target="child" class="">TB - Technical Bulletins</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TM_1_8.aspx" target="child" class="">TM - Technical Manual(Range 1-8)</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TM_9.aspx" target="child" class="">TM - Technical Manual(Range 9)</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TM_10.aspx" target="child" class="">TM - Technical Manual(Range 10)</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TM_11_4.aspx" target="child" class="">TM - Technical Manual(Range 11-4)</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TM_11_5.aspx" target="child" class="">TM - Technical Manual(Range 11-5)</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TM_11_6_7.aspx" target="child" class="">TM -Technical Manual(Range 11-6,11-7)</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TM_14_750.aspx" target="child" class="">TM - Technical Manual(Range >=14)</a></li>
+                 
+              </ul>
+
+            </div>
+        
+            <div class="usa-col">
+                <ul class="usa-nav__submenu-list">
+                  <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Training and Doctrine</li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/ADP.aspx" target="child" class="">ADP - Army Doctrine Publications</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/ADRP.aspx" target="child" class="">ADRP - Army Doctrine References Publications</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/ATP.aspx" target="child" class="">ATP - Army Techniques Publications</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/ATTP.aspx" target="child" class="">ATTP - Army Tactics, Techniques, and Procedures</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/CTA.aspx" target="child" class="">CTA - Common Table of Allowance</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/FM.aspx" target="child" class="">FM - Field Manual</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/GTA.aspx" target="child" class="">GTA - Graphic Training Aide</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/JTA.aspx" target="child" class="">JTA - Joint Table of Allowance</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/PB.aspx" target="child" class="">PB - Professional Bulletins</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/STP.aspx" target="child" class="">STP - Soldier Training Publications</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TC.aspx"  target="child" class="">TC - Training Circular</a></li>
+                 
+              </ul>
+
+            </div>
+
+            <div class="usa-col">
+              <ul class="usa-nav__submenu-list">
+                  <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Engineering</li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TM_Admin.aspx" target="child" class="">TM - Technical Manual</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TB_Admin.aspx" target="child" class="">TB - Technical Bulletins</a></li>   
+                  <li>&nbsp;</li><li>&nbsp;</li>
+                  <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Medical</li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TM_Cal.aspx" target="child" class="">TM - Technical Manual</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/TB_Cal.aspx" target="child" class="">TB - Technical Bulletins</a></li> 
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/SB_Cal.aspx" target="child" class="">SB - Supply Bulletins</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/SC_Cal.aspx" target="child" class="">SC - Supply Catalogs</a></li>   
+                  <li>&nbsp;</li><li>&nbsp;</li>
+                  <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Miscellanous</li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/CMH.aspx" target="child" class="">CMH - Center of Military History </a></li>
+                  <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/MISC.aspx" target="child" class="">MCM - Manual for Court Martial</a></li>         
+              </ul>
+            </div>
+        </div>
+     </div>
+     </li>
+
+    <!-- STRATEGIC link is created here -->
+     <li class="usa-nav__primary-item"><a class="usa-nav__link" href="/ProductMaps/PubForm/StrategicDocuments.aspx" target="child"><span style="font-size:18px;">STRATEGIC DOCUMENTS</span></a></li>
+
+     <!-- ORDERS PUBS/FORMS button is created here -->
+    <li class="usa-nav__primary-item">
+    <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="extended-mega-nav-section-three"><span style="font-size:18px;">PRINTING & ORDERING</span></button>
+ 
+        
+        
+        
+        <div id="extended-mega-nav-section-three" class="usa-nav__submenu usa-megamenu">
+        <div class="grid-row grid-gap-4">         
+            <div class="usa-col">
+              <ul class="usa-nav__submenu-list">
+                <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Printing Services</li>   
+                <li class="usa-nav__submenu-item"><a href="/Printing/printing.aspx" target="child" class="">Printing</a></li>         
+              </ul>
+            </div>   
+            
+            <div class="usa-col">
+              <ul class="usa-nav__submenu-list">
+                 <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Ordering Services</li> 
+                    <li class="usa-nav__submenu-item"><a href="/ptclick/default.aspx" target="child" class="">Order Portal</a></li>     
+                 <li class="usa-nav__submenu-item"><a href="https://bookstore.gpo.gov/" target="child" class="">GPO Bookstore (Non-Account holder)</a></li>
+              </ul>
+            </div>                          
+        </div>                  
+    </div> 
+        
+        
+         
+    </li>
+
+    <!-- TOOLS button is created here -->
+    <li class="usa-nav__primary-item">
+    <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="extended-mega-nav-section-fourth"><span style="font-size:18px;">TOOLS</span></button>
+    <div id="extended-mega-nav-section-fourth" class="usa-nav__submenu usa-megamenu">
+        <div class="grid-row grid-gap-4">         
+            <div class="usa-col">
+              <ul class="usa-nav__submenu-list">
+                                    <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Reports</li>   
+                  <li class="usa-nav__submenu-item"><a href="/pdf/administrative_pubStatus.pdf" target="child" class="">FY Publication Status report</a></li>
+                  <li class="usa-nav__submenu-item"><a href="/pdf/apd_webviews.pdf" target="child" class="">Top 50 Web Views</a></li>
+                  
+    
+          
+              </ul>
+            </div>   
+            
+            <div class="usa-col">
+              <ul class="usa-nav__submenu-list">
+                 <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Resources</li>      
+                  <li class="usa-nav__submenu-item"><a href="/Tools/PubsResources.aspx" target="child" class="">Publishing Resources</a></li>
+                       <li class="usa-nav__submenu-item"><a href="/Tools/FormResources.aspx" target="child" class="">Form Resources</a></li>
+              </ul>
+            </div>
+
+                        <div class="usa-col">
+              <ul class="usa-nav__submenu-list">
+                 <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">External Links</li>      
+               <li class="usa-nav__submenu-item"><a href="/Links/links.aspx" target="child" class="">Links</a></li>
+              </ul>
+            </div>
+            
+                           
+        </div>                  
+    </div>            
+    </li>
+
+    <!-- LINKS button is created here
+    <li class="usa-nav__primary-item"><a class="usa-nav__link" href="/Links/links.aspx"><span style="font-size:18px;">LINKS</span></a></li>
+         -->
+
+    <!-- SEARCH button is created here -->
+    <li class="usa-nav__primary-item">
+    <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="extended-mega-nav-section-fifth"><span style="font-size:18px;">SEARCH</span></button>
+    <div id="extended-mega-nav-section-fifth" class="usa-nav__submenu usa-megamenu">
+        <div class="grid-row grid-gap-4">         
+            <div class="usa-col">
+              <ul class="usa-nav__submenu-list">
+                <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Abbreviations, Brevity Codes, and Acronyms</li>   
+                <li class="usa-nav__submenu-item"><a href="/abca/SearchABCA.aspx" target="child" class="">ABCA Directory</a></li>
+    
+          
+              </ul>
+            </div>   
+            
+            <div class="usa-col">
+              <ul class="usa-nav__submenu-list">
+                 <li class="usa-nav__submenu-item" style="font-weight:bold;font-size:large;text-decoration:underline;">Publications/Forms</li>      
+                 <li class="usa-nav__submenu-item"><a href="/ProductMaps/PubForm/ActiveInactiveRescSearch.aspx" target="child" class="">Army Publications and Forms Index</a></li>
+
+              </ul>
+            </div>
+            
+                           
+        </div>                  
+    </div>            
+    </li>
+  
+</ul>
+
+</div> <!-- close the <close> div below the opening of <nav> above -->
+  </nav>
+    
+</header>
+
+     </div>  <!-- You close </div> for <div> sticky header right below <body> tag above -->           
+       </div> <!-- You close </div> for <div> golden background color for Megamenu below the APD Header --> 
+    
+    <form method="post" action="./Details.aspx?PUB_ID=1023379" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="26BAwf5S7jdIcVvrNdm5UFzC9xruDTgRcNIkKTqzObPVRfqIcCj+l8ZXcXYxk5M3sglgT4qCJMZfnOPAY9xckgXZ5rgXmZcdI40BtyO83gYi2IT3OUFG4cUyqXS/34lkO+FUopbFQBEQWSzcrFUsgpprYcq5CkBOuerc0uGg7cnSVXnUho9HuXXe1LwSNWvetqSVQRbz48j7eBSBmZVh8EvMSXHRCDPK/zQkMZPFY4WTVnbZUhj11brqZBK6X2P7GPv8cI2Z3/dLly/5RO5ogK3D+CiMd/Ic6znVvFRx47wV3VyPe427iIFqTJnm9q946v5NWp8L8ZytYtw9LTFuoN7j0tdpHl5F7VvbWlQd/C2ZYd9Zu/yHLZFsu2ShN/qEwxh7AOp1q/ZWpydfc/lPWJLvEN+fo+QquR/NU4rWewkvxwSXBRB/N44r3KH9bp/Z90CZfBHf3MQqgj92hhx2dbTXdqCtBDt6WbK4+IbGuY+qcHO1FWG76G3DFaYy8TnfXs5TAkKO7dIiTIaaU6R2M3g9jbLjIc4YPw8NgMQVYrG4EfzS9EnRoeouk/NuNdUzM+8JunLrmD93QNX3ODHhRuzfAVQSaDSVFWTUh60GyJS4mXr+nD7agUNIEewG7VgSrRkRIFYEcz2ZmqHYBKe4S67IFrlLg+9FFm02iZW4CNWW96Ai5EBDBHFJLeH26xhCh0kLKrllxMMD1n4HMjSBAZef4mvpB4VKEUd7yAHNqZZ0OTYarM54juNr/tf9eCKVwxNEQuF1RXKP9gxCALkI2vwAbKMBS5ZktIUzyVol1bsGowncP9dbpIQU6+vdE51sjZLPR21UTwKq+YgWNYmwrB+LDaVB+yeJ2JXldEBSYcLlrfPKAJreDHDlQt3t/UJ28p5lViJG+1gddaAXUu4QYns+dt/o1iJew4z1Ljye2RBY4LPb6cfbJD3hvxDts4qEXBjag3UXVetvDTOBb7N9gBjAnd0WFvrPnioCVlzrmM8RSCmk3xQrCx7OYjjiiSCtXLinCft5PSjv5gkf3tHByaOK1mcgFHCGAsh2pgtVRaWWSjcunEbLzTrPHJH47DCMPM6BKx0vbEU2iEsvTTdmYbXkm617QTLVNNVC6D8kRPHD2ZJiZKHcM8ZXtzoPCPR4jIO53/B5YsbBPidamD/mjQGr9wG5yAe4oNE6pftXKOcw7s+Lsr578Bl7ZLbai8G5GIrruqbgFDl/px+lnJH3aQ4bodVEy1EWq3gTWASdwUk=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2A7D3953" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+
+  <div class="container body-content">
+            
+
+<main id="main-content">
+<section class="usa-section"> 
+<div class="grid-container">  
+     <div style="margin-left: auto; margin-right: auto; text-align: center;">
+     <span id="MainContent_PubCat" style="text-align:center;"><b><h3>ARMY TECHNIQUES PUBLICATIONS</h3><h3>Record Details</h3></b></span>
+
+</div>
+     <br />  
+        <div class="preview usa-prose site-prose">
+  <div class="usa-table-container--scrollable">
+<div class="usa-table--striped">
+    <table class="usa-table usa-table--striped" role='presentation' style="margin-left: auto;margin-right: auto;">  
+       <tbody>              
+    <tr><td> Pub/Form Number</td><td><span id="MainContent_PubForm_Number">ATP 7-100.3</span></td></tr>
+    <tr><td>Pub/Form Date</td><td><span id="MainContent_PubForm_Date">08/09/2021</span></td></tr>
+    <tr><td> Pub/Form Title</td><td><span id="MainContent_PubForm_Title">CHINESE TACTICS</span></td></tr>
+    <tr><td>Unit Of Issue(s)</td><td><div id="MainContent_uoicontainer"><a href='../../epubs/DR_pubs/DR_a/ARN33195-ATP_7-100.3-000-WEB-1.pdf' style='color:blue;'> PDF</a><span style='line-height:25px;'><br></span>   </div>  </td></tr>
+
+ 
+    
+    
+    <tr id="MainContent_pubIDN1">
+	<td> Pub/Form IDN</td>
+	<td><span id="MainContent_PubForm_IDN"></span> </td>
+</tr>
+
+
+
+    <tr><td>Pub/Form PIN</td><td><span id="MainContent_PubForm_PIN">210371</span> </td></tr>
+   <tr><td> Pub/Form Proponent</td><td><span id="MainContent_PubForm_Proponent">TRADOC</span> </td></tr>
+    <tr><td> Pub/Form Status</td><td><span id="MainContent_PubForm_Status">ACTIVE</span> </td></tr>
+   <tr><td> Product Status</td><td><span id="MainContent_Product_Status">ACTIVE</span></td></tr>
+   <tr><td style="width:300px;">Prescribed Forms/Prescribing Directive </td><td><span id="MainContent_Prescribe"></span></td></tr>
+    <tr><td> Authority (Superseded By/Rescinded By)</td><td><span id="MainContent_PubForm_Authority"></span></td></tr>
+    <tr><td> Superseded/Replaced Other Pub/Form</td><td><span id="MainContent_PubForm_Superseded"></span></td></tr>
+    <tr><td> Footnotes</td><td><span id="MainContent_PubForm_Footnote">PUBLICATION MAY ALSO BE FOUND ON THE CAR AT HTTPS://RDL.TRAIN.ARMY.MIL/</span></td></tr>
+    <tr><td>Security Classification </td><td><span id="MainContent_PubForm_Sec_Class">UNCLASSIFIED</span></td></tr>
+    <tr><td> Dist Restriction Code </td><td><span id="MainContent_PubForm_Dist_Rest">A APPROVED FOR PUBLIC RELEASE; DISTRIBUTION IS UNLIMITED</span></td></tr>
+    <tr><td> Changes </td><td><div>
+
+</div>
+    </td></tr>           
+   </tbody>
+</table>
+         </div> </div></div></div></section></main>      
+
+    
+   </div>  
+  
+    <footer class="usa-footer">
+
+
+  <div class="grid-container usa-footer__return-to-top"><a href="#">Return to top</a></div>
+
+ 
+ <div class="usa-footer__secondary-section" style="background-color:#ef0000;color:white">
+
+<section class="grid-container">
+    <div><a href="/news/Covid19.aspx" target="child" style="color:white;text-decoration: none;"><b>Covid 19 information - Click this banner for Information and Publications as it relates to Pandemic. </b></a></div>
+    </section></div>
+
+   
+
+
+<!----------------------------------- THIS SECTION BELOW IS FOR FOOTER --------------------------->
+
+
+  <div class="usa-footer__primary-section"  style="background-color:#ccb166;">
+   <nav class="usa-footer__nav" aria-label="Footer navigation">
+      <ul class="grid-row grid-gap">
+        <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+          <a class="usa-footer__primary-link" href="https://www.army.mil/oaa" target="child" style="text-decoration:none;font-size:15px;">OAA</a>
+        </li>
+        <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+          <a class="usa-footer__primary-link" href="https://www.eeoc.gov/" target="child" style="text-decoration:none;font-size:15px;">EEO</a>
+        </li>
+        <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+          <a class="usa-footer__primary-link" href="https://www.rmda.army.mil/foia/RMDA-FOIA-Act.html" target="child" style="text-decoration:none;font-size:15px;">FOIA</a>         
+        </li>
+        <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+          <a class="usa-footer__primary-link" href="https://www.army.mil/nofearact/" target="child" style="text-decoration:none;font-size:15px;">No Fear Act Data</a>
+        </li>
+          <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+          <a class="usa-footer__primary-link" href="https://open.defense.gov" target="child" style="text-decoration:none;font-size:15px;">Open Government</a>
+        </li>
+          <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+          <a class="usa-footer__primary-link" href="https://www.esd.whs.mil/DD/plainlanguage/" target="child" style="text-decoration:none;font-size:15px;">Plain Writing</a>
+        </li>
+          <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+          <a class="usa-footer__primary-link" href="https://www.defense.gov/Resources/DOD-Information-Quality-Guideline/"  target="child" style="text-decoration:none;font-size:15px;">Information Quality</a>
+        </li>
+          <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+          <a class="usa-footer__primary-link" href="/Footer/DoDGCDisclaimer.aspx" target="child" style="text-decoration:none;font-size:15px;">External Link Disclaimer</a>
+        </li>
+        <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+          <a class="usa-footer__primary-link" href="https://www.army.mil/" target="child" style="text-decoration:none;font-size:15px;">Army.mil</a>
+        </li>
+        <li class="mobile-lg:grid-col-4 desktop:grid-col-auto usa-footer__primary-content">
+          <a class="usa-footer__primary-link" href="https://www.usa.gov/" target="child" style="text-decoration:none;font-size:15px;">USA.gov</a>
+        </li>
+      
+      </ul>
+    </nav>
+  </div>
+
+
+</footer>
+
+ 
+ <div class="usa-footer__secondary-section">
+
+<section class="grid-container">
+
+    
+	
+<div class="preview usa-prose site-prose ">
+  <div class="grid-row grid-gap">
+
+ 
+<div class="tablet:grid-col-4">
+<ul class="usa-list usa-list--unstyled">
+  <li class="usa-footer__secondary-link">     
+    <div class="usa-collection__body">
+       
+      <p class="usa-collection__description"><a href="/Footer/PrivacyNotice.aspx" target="child" style="text-decoration:none;color:black;font-size:15px;">Privacy and Security </a></p> 
+      <p class="usa-collection__description"><a href="/Footer/PrivacyProgram.aspx" target="child" style="text-decoration:none;color:black;font-size:15px;">Privacy Program </a></p>  
+      <p class="usa-collection__description"><a href="/Footer/Accessibility.aspx" target="child" style="text-decoration:none;color:black;font-size:15px;"> Accessibility/Section 508</a></p> 
+      <p class="usa-collection__description"><a href="/Footer/StrategicPlan.aspx" target="child" style="text-decoration:none;color:black;font-size:15px;">Strategic Plan</a></p>      
+      <p class="usa-collection__description"> <a href="/Footer/Contact.aspx" target="child" style="text-decoration:none;color:black;font-size:15px;"> Contact Us</a></p>
+      <p class="usa-collection__description"> <a href="/Footer/Sitemap.aspx" target="child" style="text-decoration:none;color:black;font-size:15px;"> Site Map</a></p>
+    
+    </div>
+  </li>
+
+</ul>
+</div>
+
+      <div class="tablet:grid-col-4">
+<ul class="usa-list usa-list--unstyled">
+  <li class="usa-footer__secondary-link">   
+    <div class="usa-collection__body">
+
+      <p class="usa-collection__description" style="color:black;font-size:15px;">
+              <strong>Army Publishing Directorate </strong>
+        <br />   9301 Chapek Road., Bldg.1458 
+        <br />  Fort Belvoir, VA 22060
+        <br /> <br />(703) 614-3727
+	</p> 
+        
+    </div>
+  </li>
+
+</ul>
+           <ul class="usa-list usa-list--unstyled" style="font-size:15px;"><li><b>Email:</b>&nbsp; <a href="mailto:usarmy.pentagon.hqda-apd.mbx.customer-service@mail.mil" style="text-decoration:none;">  
+               usarmy.pentagon.hqda-apd.mbx.<br />
+    customer-service@mail.mil</a></li></ul>                                                  
+
+</div>
+
+ <div class="tablet:grid-col-4">
+
+<ul class="usa-list usa-list--unstyled">
+   <li><img class="usa-collection__img" src="/img/APDImages/AASA_Seal.svg" alt="AASA Seal"   style="float:left;" /></li>
+
+
+  <li>  
+    
+    <p class="usa-collection__description" style="color:black;font-size:15px;">
+            <strong>  Office of the Administrative Assistant to the Secretary of the Army </strong>
+         <br /> 105 Army Pentagon
+       <br /> Washington D.C 20310-0105
+       
+      <br /><b>Email:</b>&nbsp; <a href="mailto:usarmy.pentagon.hqda-oaa.mbx.oaa-communications-poc@mail.mil" style="text-decoration:none;">  usarmy.pentagon.hqda-oaa.mbx.<br />
+          oaa-communications-poc@mail.mil</a>
+         
+	</p>   
+  </li>
+
+ </ul>
+ 
+    </div>
+
+
+  </div></div>
+
+      </section>
+</div>
+
+
+  
+  <div style="background-color:black;text-align:center;padding:10px;width:100%;"> <img class="usa-media-block__img"  src="/img/APDImages/USARMY_Logo.svg" width="80" height="80" alt="Alt text" /></div>
+      
+
+  </form>
+    
+         
+    <script src="/js/uswds.min.js"></script>
+ 
+     <!-- Need to comment this out so the Search page works
+ 
+    <script>
+    window.addEventListener('load', function() {
+      document.body.addEventListener('submit', function(e) {
+        // https://github.com/uswds/uswds/issues/2101
+        e.preventDefault();
+      }, true);
+    }, false);
+    </script>
+-->
+         
+  </body>
+</html>
+
