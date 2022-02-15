@@ -15,7 +15,7 @@ jobs:
           git config --local user.name "wowbat"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          wget -P ./downloads -i urlList.txt
+          wget -P ./downloads -i urlList.txt --no-check-certificate
           git add .
           git commit -m "download file"
           git push
