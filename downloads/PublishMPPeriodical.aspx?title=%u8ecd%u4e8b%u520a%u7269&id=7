@@ -1,0 +1,1211 @@
+
+
+<!DOCTYPE html>
+
+<html lang="zh-tw">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+	中華民國國防部-全球資訊網-首頁
+</title><meta name="keyword" content="國防部" /><meta name="description" content="國防部國防資訊網" /><meta name="author" content="國防部國防資訊網" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="ie=edge" /><link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" /><link rel="stylesheet" href="css/bootstrap3.3.7.css" /><link rel="stylesheet" href="css/font-awesome.min.css" /><link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC&amp;display=swap" rel="stylesheet" /><link rel="stylesheet" href="css/flickity-docs.css" /><link rel="stylesheet" href="css/page.css" /><link rel="stylesheet" href="css/page_table.css" /><link rel="stylesheet" href="css/main.css" /><link rel="stylesheet" href="css/1110506fixed.css" />
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="./" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="542cfpwGpxXmAt2mAHEgfku9CaTfmSqfqI/ANXMQ8SCdaFtdMubJgw2qQ71TwLcjcShMauzGAv6Lp3WJg7oxOYqIxQpeKzCxz1zPiyNc+VcZ3bQ8U5w1vwhVmRblxc64g/+QQdlmC4io5hUvd6J41o7xZkizQMPgT3mUqQ==" />
+        
+        <a href="#accesskey_c" class="sr-only sr-only-focusable" title="跳到主要內容區塊" tabindex="1">跳到主要內容區塊</a>
+        <div class="container-fluid">
+            <header>
+                <nav class="navbar navbar-default">
+                    <div class="container-box">
+                        <div class="navbar-header mobile">
+                            <div class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" alt="導覽選單">
+                                <span class="sr-only"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </div>
+                            <a class="navbar-brand" href="\" tabindex="0">
+                                <img src="img/logo.svg" alt="國防部全球資訊網標示圖">
+                            </a>
+                        </div>
+
+                        <div class="collapse navbar-collapse w_100" id="bs-example-navbar-collapse-1">
+                            <div class="topOfBaand">
+                                
+                                <div class="visitors">
+                                    現在是民國112年5月16日   星期二&nbsp;<br />
+                                    您是第224086016位訪客
+                                </div>
+                                <div class="rightArea">
+                                    <ul>
+                                        <!-- 無障礙 -->
+                                        <li>
+
+                                            <a href="#U" accesskey="U" name="U" id="U" title="上方選單區" class="sr-only sr-only-focusable">:::</a>
+                                        </li>
+                                        <!-- 無障礙end -->
+                                        <li><a href="WebSiteMap.aspx?SelectStyle=網站導覽" title="網站導覽">網站導覽</a></li>
+                                        <li><a href="/English/default.aspx" title="English">English</a></li>
+                                        
+                                        <li><a href="Default.aspx" title="首頁">回首頁</a></li>
+                                        <li class="font-size">
+                                            <a href="javascript:;">文字大小:</a>
+                                            <a href="javascript:;" class="fontControl small fontS">小</a>
+                                            <a href="javascript:;" class="fontControl medium fontM in">中</a>
+                                            <a href="javascript:;" class="fontControl large fontL">大</a>
+                                        </li>
+                                    </ul>
+                                    <ul class="sercharea">
+                                        <li>
+                                            <input class="Search_input" type="text" name="TbSearch2" title="請輸入查詢條件" />
+                                            <input type="submit" name="ctl00$Button2" value="搜尋" id="ctl00_Button2" class="Search_btn" title="搜尋" />
+                                        </li>
+                                        <li>
+                                            <a tabindex="-1">熱門搜尋:</a>
+                                            <a href="PublishIframe.aspx?Types=收尋&KeyWord=軍事新聞" title="軍事新聞">軍事新聞</a>
+                                            <a href="PublishIframe.aspx?Types=收尋&KeyWord=國防要聞" title="國防要聞">國防要聞</a>
+                                            <a href="PublishIframe.aspx?Types=收尋&KeyWord=陸軍裝備" title="陸軍裝備">陸軍裝備</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div>
+                                <div class="navbar-header">
+                                    <a class="navbar-brand" href="\" tabindex="0">
+                                        <img src="img/logo.svg" alt="國防部全球資訊網標示圖">
+                                    </a>
+                                </div>
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" tabindex="0">關於國防部</a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="Publish.aspx?p=71861&title=關於國防部&SelectStyle=國防部簡介" title="國防部簡介" tabindex="0">國防部簡介</a>
+                                            </li>
+                                            <li>
+                                                <a href="Publish.aspx?p=75111&title=關於國防部&SelectStyle=部長簡介" title="部長簡介" tabindex="0">部長簡介</a>
+                                            </li>
+                                            
+                                            <li>
+                                                <a href="Publish.aspx?p=70181&title=關於國防部&SelectStyle=歷任部長" title="歷任部長" tabindex="0">歷任部長</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">國防消息</a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="PublishTable.aspx?Types=即時軍事動態&title=國防消息" title="即時軍事動態">即時軍事動態</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishIframe.aspx?title=國防消息&Types=國軍輯影" title="國軍輯影">國軍輯影</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishIframe.aspx?title=國防消息&Types=軍事新聞" title="軍事新聞">軍事新聞</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishTable.aspx?title=國防消息&Types=公告專區" title="公告專區">公告專區</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishIframe.aspx?types=影音&title=影音快遞&SelectStyle=影音" title="影音快遞">影音快遞</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishTabs.aspx?parentId=65&NodeId=657&title=國防消息&SelectStyle=新聞稿" title="新聞稿">新聞稿</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishTable.aspx?title=國防消息&Types=即時新聞澄清專區" title="即時新聞澄清專區">即時新聞澄清專區</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishTabs.aspx?parentId=10021&NodeId=169009&title=國防消息&SelectStyle=常見問答集" title="常見問答集">常見問答集</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">重要政策</a>
+                                        <ul class="dropdown-menu">
+                                               <li>
+                                                <a href="PublishTable.aspx?title=重要政策&Types=強化全民國防兵力結構調整方案" title="強化全民國防兵力結構調整方案">強化全民國防兵力結構調整方案</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishTable.aspx?title=募兵制專區&Types=政令宣導" title="募兵制專區">募兵制專區</a>
+                                            </li>
+                                            
+                                            <li>
+                                                <a href="PublishTable.aspx?Types=性平專案小組會議紀錄暨委員名冊&title=性別平等專區" title="性別平等專區">性別平等專區</a>
+                                            </li>
+                                            
+                                            
+                                            <li>
+                                                <a href="Publish.aspx?title=%E6%94%BF%E5%BA%9C%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B&Types=%E6%94%BF%E5%BA%9C%E8%B3%87%E8%A8%8A%E7%94%B3%E8%AB%8B%E6%9B%B8&SelectStyle=%E6%94%BF%E5%BA%9C%E8%B3%87%E8%A8%8A%E7%94%B3%E8%AB%8B%E6%9B%B8&p=77693" title="政府資訊公開">政府資訊公開</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishTable.aspx?Types=召訓構想&title=後備動員管理" title="後備動員管理">後備動員管理</a>
+                                            </li>
+                                            <li>
+                                                <a href="Publish.aspx?p=76645&Types=武器裝備說明專區&title=重要政策" title="武器裝備說明專區">武器裝備說明專區</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishTable.aspx?Types=條例&title=國防產業發展條例專區" title="國防產業發展條例專區">國防產業發展條例專區</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">為民服務</a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="Publish.aspx?p=75774&title=為民服務&SelectStyle=民意信箱" title="民意信箱">民意信箱</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://rdrc.mnd.gov.tw/rdrc/index.aspx" target="_blank" title="人才招募-另開視窗">人才招募</a>
+                                            </li>
+                                            <li>
+                                                <a href="Publish.aspx?p=160&title=為民服務&SelectStyle=醫療服務" title="醫療服務">醫療服務</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://afrc.mnd.gov.tw/EFR/index.aspx" target="_blank" title="後備軍人服務-另開視窗">後備軍人服務</a>
+                                            </li>
+                                            <li>
+                                                <a href="Publish.aspx?p=54800&title=為民服務&SelectStyle=國軍檔案應用服務區" title="國軍檔案應用服務區">國軍檔案應用服務區</a>
+                                            </li>
+                                            <li>
+                                                <a target="_blank" href="https://ethics.mnd.gov.tw/EditPage/?PageID=20ecd8ef-e98b-4d4b-bc6a-e2866519a3e2" title="遊說法資訊專區-另開視窗">遊說法資訊專區</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">軍事出版品</a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="Glossary.aspx?title=軍事出版品&SelectStyle=中英辭彙對照" title="中英辭彙對照">中英辭彙對照</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishMPBook.aspx?title=軍事刊物&SelectStyle=軍事期刊" title="軍事刊物">軍事刊物</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">相關連結</a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="PublishIframe.aspx?title=相關連結&Types=國軍機關單位" title="國軍機關單位">國軍機關單位</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishIframe.aspx?title=相關連結&Types=軍事院校" title="軍事院校">軍事院校</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishIframe.aspx?title=相關連結&Types=國軍醫院" title="國軍醫院">國軍醫院</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishIframe.aspx?title=相關連結&Types=國軍資訊網站" title="國軍資訊網站">國軍資訊網站</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishIframe.aspx?title=相關連結&Types=國防相關組織" title="國防相關組織">國防相關組織</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishIframe.aspx?Types=相關活動連結&title=相關連結&SelectStyle=相關活動連結" title="相關活動連結">相關活動連結</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishTable.aspx?Types=軍事社群專區&title=相關連結">軍事社群專區</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://gazette.nat.gov.tw/egFront/index.do" target="_blank" title="行政院公報資訊網-另開新視窗">行政院公報資訊網</a>
+                                            </li>
+                                            <li>
+                                                <a href="PublishIframe.aspx?title=相關連結&Types=英語資料庫平臺" class="lastli" title="英語資料庫平臺">英語資料庫平臺</a>
+                                            </li>
+                                            <li>
+                                                <a href="https://data.gov.tw/" target="_blank" title="政府資料開放平臺-另開視窗">政府資料開放平臺</a>
+                                            </li>
+
+                                            <li>
+                                                <a class="dropdown-menu-end" href="PublishIframe.aspx?title=相關連結&Types=國軍屆退官兵「就業」及「職業訓練」相關資訊" title="國軍屆退官兵「就業」及「職業訓練」相關資訊">國軍屆退官兵「就業」<br />
+                                                    及「職業訓練」相關資訊</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- /.navbar-collapse -->
+                    </div>
+                </nav>
+            </header>
+            <!-- ====== 以上header ======================================== -->
+
+            <div class="mobile-search">
+                <input id="TbSearch" type="text" name="TbSearch" title="請輸入查詢條件" />
+                <input type="submit" name="ctl00$Button100" value="搜尋" id="ctl00_Button100" title="搜尋" />
+            </div>
+            <noscript>
+                <div>
+                    <p>您的瀏覽器不支援JavaScript功能，若網頁功能無法正常使用時，請開啟瀏覽器JavaScript狀態</p>
+                </div>
+            </noscript>
+            
+    
+
+
+    
+    <style>
+        .ad_close_icon {
+            position: fixed;
+            width: 20px;
+            height: 20px;
+            z-index: 100;
+            left: 180px;
+            /* cursor: pointer; */
+            top: 210px;
+            margin: 3px;
+            background: url(img/icon/close.png) 0px 0px no-repeat;
+            background-size: contain;
+        }
+
+        .div_spot_f16 {
+            text-align: center;
+            width: 206px;
+            height: 124px;
+            background-repeat: no-repeat;
+            z-index: 1;
+            background-color: #89b231fa;
+            border-radius: 10px;
+            margin: 4px;
+            padding: 10px;
+            top: 200px;
+            box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+            /*            background: url(../Images/covid-19.png);*/
+            background-size: contain;
+            background-repeat: no-repeat;
+            position: fixed;
+            z-index: 99;
+        }
+
+            .div_spot_f16 div {
+                font-size: 2.2rem;
+                margin-top: 2.5rem;
+                font-family: 標楷體;
+            }
+    </style>
+    
+
+
+    <!--above :popup section-->
+    <div id="ctl00_ContentPlaceHolder1_div_carousel" class="banner" tabindex="-1">
+        <div class="main-carousel" tabindex="-1">
+            <!--2022_0330_Greg_Add_banner0-->
+            <a class="carousel-cell" href="https://www.facebook.com/rocnmm" target="_blank" title="前往國家軍事博物館臉書(另開新視窗)">
+                
+                <div class="deco">
+                    <img src="img/banner0.jpg" alt="輪播圖-軍博處">
+                    
+                    <div class="limit-left">
+                        <div class="green"></div>
+                    </div>
+                    <div class="limit-right">
+                        <div class="green"></div>
+                    </div>
+
+                </div>
+                
+            </a>
+            <div class="carousel-cell" tabindex="0">
+                <div class="deco">
+                    <img src="img/banner1.jpg" alt="輪播圖-戰車特寫">
+                    
+                    <div class="limit-left">
+                        <div class="green"></div>
+                    </div>
+                    <div class="limit-right">
+                        <div class="green"></div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="carousel-cell" tabindex="0">
+                <div class="deco">
+                    <img src="img/banner2.jpg" alt="輪播圖-直升機畫面">
+                    
+                    <div class="limit-left">
+                        <div class="green"></div>
+                    </div>
+                    <div class="limit-right">
+                        <div class="green"></div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="carousel-cell" tabindex="0">
+                <div class="deco">
+                    <img src="img/banner3.jpg" alt="輪播圖-戰機畫面">
+                    
+                    <div class="limit-left">
+                        <div class="green"></div>
+                    </div>
+                    <div class="limit-right">
+                        <div class="green"></div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="carousel-cell" tabindex="0">
+                <div class="deco">
+                    <img src="img/banner4.jpg" alt="輪播圖-戰車畫面">
+                    
+                    <div class="limit-left">
+                        <div class="green"></div>
+                    </div>
+                    <div class="limit-right">
+                        <div class="green"></div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="carousel-cell" tabindex="0">
+                <div class="deco">
+                    <img src="img/banner5.jpg" alt="輪播圖-軍艦發射飛彈畫面">
+                    
+                    <div class="limit-left">
+                        <div class="green"></div>
+                    </div>
+                    <div class="limit-right">
+                        <div class="green"></div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="carousel-cell" tabindex="0">
+                <div class="deco">
+                    <img src="img/banner6.jpg" alt="輪播圖-海軍演訓畫面">
+                    
+                    <div class="limit-left">
+                        <div class="green"></div>
+                    </div>
+                    <div class="limit-right">
+                        <div class="green"></div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="carousel-cell" tabindex="0">
+                <div class="deco">
+                    <img src="img/banner7.jpg" alt="輪播圖-戰車併排射擊畫面">
+                    
+                    <div class="limit-left">
+                        <div class="green"></div>
+                    </div>
+                    <div class="limit-right">
+                        <div class="green"></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <!-- ====== 以上banner ======================================== -->
+    <div class="news">
+        <img class="news-deco" src="img/sec02_deco01-02.png" alt="背景圖-戰機">
+        <div class="box960">
+            
+            <a href="#C" accesskey="C" name="C" id="accesskey_c" class="sr-only sr-only-focusable" title="主要內容區">:::</a>
+            <h1 class="title">國防消息</h1>
+            <div class="bookmark">
+                <div class="mark-title">
+                    <ul class="title-ul">
+                        <li class="t1 active">
+                            <a href="#textlb01" aria-controls="textlb01" role="tab" data-toggle="tab">軍事新聞</a>
+                        </li>
+                        <li class="t2">
+                            <a href="#textlb02" aria-controls="textlb02" role="tab" data-toggle="tab">公告專區</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="tab-content">
+                    <div id="textlb01" class="active tab-pane">
+                        <ul><li> 
+				        <div class='item'>
+                            <div class='picture'>
+				            </div> 
+                            <div class='words'> 
+					            <div class='date'>112-05-16</div>
+					            <a target='_blank' href='https://mna.gpwb.gov.tw/news/detail/?UserKey=d20120ad-38f8-4e73-96cb-34ed4976c36e' class='headline'>共軍機艦臺海周邊活動　國軍嚴密監控應處</a>
+					            <div class='article'>（軍聞社記者蔡枋澐臺北16日電）國防部今日表示，迄0600時止，偵獲共機25架次（其中進入西南及東部...</div>
+                            </div> 
+				        </div>
+                    </li><li> 
+				        <div class='item'>
+                            <div class='picture'>
+				            </div> 
+                            <div class='words'> 
+					            <div class='date'>112-05-16</div>
+					            <a target='_blank' href='https://mna.gpwb.gov.tw/news/detail/?UserKey=353699c0-a757-48d9-ae1d-40d48a72576c' class='headline'>蔡總統：貢獻臺灣經驗　維護全球秩序穩定</a>
+					            <div class='article'>（軍聞社記者謝宏檜臺北16日電）蔡英文總統昨（15）日下午接見「112年遠朋西語高階軍官班第15期」...</div>
+                            </div> 
+				        </div>
+                    </li><li> 
+				        <div class='item'>
+                            <div class='picture'>
+				            </div> 
+                            <div class='words'> 
+					            <div class='date'>112-05-16</div>
+					            <a target='_blank' href='https://mna.gpwb.gov.tw/news/detail/?UserKey=dd53aa8a-0321-4cf7-a6cd-b33c2a9ae724' class='headline'>蔡總統接見美國海外作戰退伍軍人協會　深化臺美交流</a>
+					            <div class='article'>（軍聞社記者周力行臺北16日電）蔡英文總統昨（15）日接見「美國海外作戰退伍軍人協會（Veteran...</div>
+                            </div> 
+				        </div>
+                    </li></ul>
+                        <div class="seemore">
+                            <a href="PublishTable.aspx?Types=%E5%85%AC%E5%91%8A%E5%B0%88%E5%8D%80&title=%E5%9C%8B%E9%98%B2%E6%B6%88%E6%81%AF&SelectStyle=%E5%85%AC%E5%91%8A%E5%B0%88%E5%8D%80">查看更多</a>
+                        </div>
+                    </div>
+                    <!-- 01 -->
+                    <div id="textlb02" class="tab-pane">
+                        <ul>
+                            
+
+
+                                    <li>
+                                        <div class="item">
+                                            <div class="words">
+                                                <div class="date">112/05/11</div>
+                                                <a href="Publish.aspx?title=國防消息&p=81451&SelectStyle=公告專區" title="臺北市112年全民防衛動員暨災害防救(民安9號)演習已於5月4日(星期四)順利完成" class="headline">臺北市112年全民防衛動員暨災害防救(民安9號)演習已於5月4日(星期四)順利完成</a>
+                                                <div class="article"><p>今年度第4場次「民安9號」演習已由臺北市政府於5月4日(星期四)假臺北市災害應變中心、101金融大樓、松山工農及臺北市政府前廣場辦理完畢，演習由市長蔣萬安先生擔任演習指揮官，國防部軍政副部長柏鴻輝先生任行政院指導官，並率各部會代表實施評核。</p>
+
+<p>演習有效整合轄屬局、處、公民營事業單位、民防團隊、替代役、非營利事業組織、救難與志工團體，採實兵、實地、實物方式以「戰時景況下災害搶救」為主軸，計演練「101金融大樓防空疏散避難演練」等課目，演練逼真、緊湊，有效強化市府民、物力支援戰災搶救作為，以強化整合中央暨縣市救災資源。</p>
+</div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                
+
+
+                                    <li>
+                                        <div class="item">
+                                            <div class="words">
+                                                <div class="date">112/05/09</div>
+                                                <a href="Publish.aspx?title=國防消息&p=81440&SelectStyle=公告專區" title="金門縣112年全民防衛動員暨災害防救(民安9號)演習將於5月11日(星期四)辦理" class="headline">金門縣112年全民防衛動員暨災害防救(民安9號)演習將於5月11日(星期四)辦理</a>
+                                                <div class="article"><p>112年全民防衛動員暨災害防救(民安9號)演習第5場次將由金門縣政府於5月11日(星期四)辦理，今年演習區分「兵棋推演」及「綜合實作」，上午10時於金門縣太武山北坑口(金防部北坑口營區)辦理「兵棋推演」，下午14時於金門縣夏興電廠(金門縣金湖鎮夏興200號)辦理「綜合實作」演練，欲參觀之民眾請洽金門縣政府。</p>
+</div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                
+
+
+                                    <li>
+                                        <div class="item">
+                                            <div class="words">
+                                                <div class="date">112/05/09</div>
+                                                <a href="Publish.aspx?title=國防消息&p=81441&SelectStyle=公告專區" title="臺東縣112年全民防衛動員暨災害防救(民安9號)演習將於5月18日(星期四)辦理" class="headline">臺東縣112年全民防衛動員暨災害防救(民安9號)演習將於5月18日(星期四)辦理</a>
+                                                <div class="article"><p>112年全民防衛動員暨災害防救(民安9號)演習第6場次將由臺東縣政府於5月18日(星期四)辦理，今年演習區分「兵棋推演」及「綜合實作」，上午10時於臺東縣政府大禮堂(臺東市中山路276號)辦理「兵棋推演」，下午1430時於臺東車站(臺東市文昌路206巷250號)辦理「綜合實作」演練，欲參觀之民眾請洽臺東縣政府。</p>
+</div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                
+
+                        </ul>
+                        <div class="seemore"><a href="PublishTable.aspx?Types=%E5%85%AC%E5%91%8A%E5%B0%88%E5%8D%80&title=%E5%9C%8B%E9%98%B2%E6%B6%88%E6%81%AF">查看更多</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ====== 以上 國防消息 ======================================== -->
+    <div class="service">
+        <div class="box960">
+            <div class="title">為民服務</div>
+            <div class="rightlink">
+                <ul>
+                    
+                    
+                    <li>
+                        <a href="Publish.aspx?p=75774&title=%E7%82%BA%E6%B0%91%E6%9C%8D%E5%8B%99&SelectStyle=%E6%B0%91%E6%84%8F%E4%BF%A1%E7%AE%B1" title="民意信箱">
+                            <div class="imgbox">
+                                <img src="img/service-icon03.png" alt="信箱">
+                            </div>
+                            民意信箱
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Publish.aspx?p=54800&title=%E7%82%BA%E6%B0%91%E6%9C%8D%E5%8B%99&SelectStyle=%E5%9C%8B%E8%BB%8D%E6%AA%94%E6%A1%88%E6%87%89%E7%94%A8%E6%9C%8D%E5%8B%99%E5%8D%80" title="國軍檔案應用服務區">
+                            <div class="imgbox">
+                                <img src="img/service-icon04.png" alt="檔案">
+                            </div>
+                            國軍檔案應用服務區
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://rdrc.mnd.gov.tw/rdrc/index.aspx" title="人才招募-另開視窗" target="_blank">
+                            <div class="imgbox">
+                                <img src="img/service-icon05.png" alt="鋼盔">
+                            </div>
+                            人才招募
+                        </a>
+                    </li>
+                </ul>
+                <ul>
+                    <li>
+                        
+                        <a href="Publish.aspx?p=160&title=%E7%82%BA%E6%B0%91%E6%9C%8D%E5%8B%99&SelectStyle=%E9%86%AB%E7%99%82%E6%9C%8D%E5%8B%99" title="醫療服務">
+                            <div class="imgbox">
+                                <img src="img/service-icon06.png" alt="醫藥箱">
+                            </div>
+                            醫療服務
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://data.gov.tw/" title="政府資料開放-另開視窗" target="_blank">
+                            <div class="imgbox">
+                                <img src="img/service-icon07.png" alt="政府資料開放圖示">
+                            </div>
+                            政府資料開放
+                        </a>
+                    </li>
+                    <li>
+                        <a href="Publish.aspx?p=75774&title=%E7%82%BA%E6%B0%91%E6%9C%8D%E5%8B%99&SelectStyle=%E6%B0%91%E6%84%8F%E4%BF%A1%E7%AE%B1">
+                            <div class="imgbox">
+                                <img src="img/service-icon08.png" alt="箭頭圖示">
+                            </div>
+                            查看更多
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- ====== 以上 為民服務 ======================================== -->
+    <div class="policy">
+        <div class="box960">
+            <div class="col-lg-7 col-md-7 policyArea">
+                <div class="title">重要政策</div>
+                <ul>
+                    <li><a href="PublishTable.aspx?title=募兵制專區&Types=政令宣導" title="募兵制專區">募兵制專區</a></li>
+                    <li><a href="PublishTable.aspx?Types=性平專案小組會議紀錄暨委員名冊&title=性別平等專區" title="性別平等專區">性別平等專區</a></li>
+                    <li><a href="PublishIframe.aspx?types=法律、法規、行政規則及函釋&title=政府資訊公開&SelectStyle=法律、法規、行政規則及函釋" title="政府資訊公開">政府資訊公開</a></li>
+                    <li><a href="PublishTable.aspx?Types=召訓構想&title=後備動員管理" title="後備動員管理">後備動員管理</a></li>
+                </ul>
+                <div class="seemore">
+                    <a href="Publish.aspx?p=76645&Types=武器裝備說明專區&title=重要政策">查看更多</a>
+                </div>
+            </div>
+            <div id="ctl00_ContentPlaceHolder1_div_fb" class="col-lg-4 col-lg-offset-1 col-md-4 col-md-offset-1 fbArea">
+                <div class="title"><a href="https://www.facebook.com/MilitarySpokesman/" class="title2" title="前往國防部粉絲專頁">國防新鮮事</a></div>
+                <div class="fbox">
+                    <iframe tabindex="-1" sandbox='allow-same-origin allow-scripts allow-forms' title="國防部臉書粉絲專頁" id="ifr_fb" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMilitarySpokesman%2F&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="500" height="500"
+                        style="border: none; overflow: hidden" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <!-- ====== 以上 重要政策 ======================================== -->
+    <div id="ctl00_ContentPlaceHolder1_div_photography" class="photography">
+        <div class="titlebox">
+            <div class="title">國軍輯影</div>
+            <img src="img/photography-deco.png" alt="戰車背景圖">
+        </div>
+        <div class="gridbox">
+            <div class="box960">
+                
+
+                    <a target='_blank' title='共軍機艦臺海周邊活動　國軍嚴密監控應處-另開視窗' href='https://mna.gpwb.gov.tw/news/detail/?UserKey=d20120ad-38f8-4e73-96cb-34ed4976c36e' class='itembox integrated col-lg-6 col-xs-12'>
+                        <img src = 'https://mna.gpwb.gov.tw/Cms_Data/Contents/MNA/Media/images/news/469fd584-5e10-4858-866f-e2980ad92a7b.jpg' alt= ''>
+                           <div class='words01 white'>
+                            <div class='inside'>
+                                共軍機艦臺海周邊活動　國軍嚴密監控應處
+                                    <i class='fa fa-chevron-circle-down' aria-hidden='true'></i>
+                            </div>
+                        </div>
+                    </a>
+                    <!-- 1 -->
+                    <div class='itembox segmenttation col-lg-6 col-xs-12'>
+                        <div class='item1'>
+                            <a target='_blank' title='蔡總統：貢獻臺灣經驗　維護全球秩序穩定-另開視窗' href = 'https://mna.gpwb.gov.tw/news/detail/?UserKey=353699c0-a757-48d9-ae1d-40d48a72576c' class='nextimg'>
+                                <div class='words02 white'>
+                                    <div class='inside'>
+                                        蔡總統：貢獻臺灣經驗　維護全球秩序穩定
+                                            <i class='fa fa-chevron-circle-down' aria-hidden='true'></i>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class='imgbox'>
+                                <img src = 'https://mna.gpwb.gov.tw/Cms_Data/Contents/MNA/Media/images/news/7fcd8ae0-a4c1-4ae1-b2c1-10121cd32223.jpg' alt='蔡總統：貢獻臺灣經驗　維護全球秩序穩定'>
+                            </div>
+                        </div>
+                        <div class='item2'>
+                            <div class='imgbox'>
+                                <img src = 'https://mna.gpwb.gov.tw/Cms_Data/Contents/MNA/Media/images/news/97b0fc9b-2af3-475d-a628-31dfe00279b4.jpg' alt=''>
+                            </div>
+                            <a target='_blank' title='蔡總統接見美國海外作戰退伍軍人協會　深化臺美交流-另開視窗' href = 'https://mna.gpwb.gov.tw/news/detail/?UserKey=dd53aa8a-0321-4cf7-a6cd-b33c2a9ae724' class='nextimg'>
+                                <div class='words03 dark'>
+                                    <div class='inside'>
+                                        蔡總統接見美國海外作戰退伍軍人協會　深化臺美交流
+                                            <i class='fa fa-chevron-circle-down' aria-hidden='true'></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- 2 -->
+                    <div class='clear'></div>
+                    <div class='itembox segmenttation col-lg-6 col-xs-12'>
+                        <div class='item1'>
+                            <a target='_blank' title='北榮打造首座重粒子癌症治療中心　建立醫療新里程碑-另開視窗' href = 'https://mna.gpwb.gov.tw/news/detail/?UserKey=fca8bfdf-a863-4586-b6c7-ea0cdbcbcd15' class='nextimg'>
+                                <div class='words04 white'>
+                                    <div class='inside'>
+                                        北榮打造首座重粒子癌症治療中心　建立醫療新里程碑
+                                            <i class='fa fa-chevron-circle-down' aria-hidden='true'></i>
+                                    </div>
+                                </div>
+                            </a>
+                            <div class='imgbox'>
+                                <img src = 'https://mna.gpwb.gov.tw/Cms_Data/Contents/MNA/Media/images/news/0fbcc704-b278-4145-917a-50a9e073c910.jpg' alt='北榮打造首座重粒子癌症治療中心　建立醫療新里程碑'>
+                            </div>
+                        </div>
+                        <div class='item2'>
+                            <div class='imgbox'>
+                                <img src = 'https://mna.gpwb.gov.tw/Cms_Data/Contents/MNA/Media/images/news/a9f69970-1a2f-48ce-8091-a6b1f25592d3.jpg' alt='臺南市後備旅教召訓練　展現捍衛國家決心'>
+                            </div>
+                            <a target='_blank' title='臺南市後備旅教召訓練　展現捍衛國家決心-另開視窗' href = 'https://mna.gpwb.gov.tw/news/detail/?UserKey=176b9c8b-1190-4763-a52d-995f7c28bcc9' class='nextimg'>
+                                <div class='words05 dark'>
+                                    <div class='inside'>
+                                        臺南市後備旅教召訓練　展現捍衛國家決心
+                                            <i class='fa fa-chevron-circle-down' aria-hidden='true'></i>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- 3 -->
+                    <a target='_blank' title='206旅教育召集訓練　強化戰技厚植防衛能量-另開視窗' href = 'https://mna.gpwb.gov.tw/news/detail/?UserKey=51bffdb5-67c8-43cf-bdd8-0e82546dc1a0' class='itembox integrated col-lg-6 col-xs-12'>
+                        <img src = 'https://mna.gpwb.gov.tw/Cms_Data/Contents/MNA/Media/images/news/b2abee5f-c2d7-4215-b940-17dacbd9752d.jpg' alt=''>
+                        <div class='words06 white'>
+                            <div class='inside'>
+                                206旅教育召集訓練　強化戰技厚植防衛能量
+                                    <i class='fa fa-chevron-circle-down' aria-hidden='true'></i>
+                            </div>
+                        </div>
+                    </a>
+                    <div class='clear'></div>
+                
+            </div>
+        </div>
+    </div>
+    <!-- ====== 以上 國軍輯影 ======================================== -->
+    <div id="ctl00_ContentPlaceHolder1_div_video" class="video">
+        <div class="box960">
+            <div class="leftarea col-lg-7 col-md-7">
+                <div class="titlebox">
+                    <div class="title">影音快遞</div>
+                </div>
+                <div class="box">
+                    <a href="https://www.youtube.com/watch?v=UFsFRZCIswc" target="_blank" title="前往國防線上-我的軍裝我的榮耀影片(另開新視窗)">
+                        <img src="img/影音快遞.png" alt="國防線上-我的軍裝我的榮耀圖片" />
+                    </a>
+                    
+                    <div class="seemore">
+                        <a href="PublishIframe.aspx?types=%E5%BD%B1%E9%9F%B3&title=%E5%BD%B1%E9%9F%B3%E5%BF%AB%E9%81%9E&SelectStyle=%E5%BD%B1%E9%9F%B3">查看更多</a>
+                    </div>
+                </div>
+            </div>
+            <div class="rightarea col-lg-5 col-md-5">
+                <div class="titlebox">
+                    <div class="title">軍事刊物</div>
+                </div>
+                <div class="box">
+                    <ul>
+                        <li>
+                            <a href="PublishMPBook.aspx?title=%E8%BB%8D%E4%BA%8B%E5%88%8A%E7%89%A9&SelectStyle=%E8%BB%8D%E4%BA%8B%E6%9C%9F%E5%88%8A">軍事期刊</a>
+                        </li>
+                        <li>
+                            <a href="PublishIframe.aspx?Types=%E8%BB%8D%E4%BA%8B%E6%9B%B8%E7%B1%8D&title=%E8%BB%8D%E4%BA%8B%E5%88%8A%E7%89%A9&SelectStyle=%E8%BB%8D%E4%BA%8B%E6%9B%B8%E7%B1%8D">軍事書籍</a>
+                        </li>
+                        <li>
+                            <a href="PublishForQDR.aspx?title=%E8%BB%8D%E4%BA%8B%E5%88%8A%E7%89%A9&Types=%E6%AD%B7%E5%B9%B4%E5%9C%8B%E9%98%B2%E7%B8%BD%E6%AA%A2%E8%A8%8E(QDR)&SelectStyle=%E6%AD%B7%E5%B9%B4%E5%9C%8B%E9%98%B2%E7%B8%BD%E6%AA%A2%E8%A8%8E(QDR)">歷年國防總檢討(QDR)</a>
+                        </li>
+                        <li>
+                            <a href="PublishForReport.aspx?title=%E8%BB%8D%E4%BA%8B%E5%88%8A%E7%89%A9&Types=%E6%AD%B7%E5%B9%B4%E5%9C%8B%E9%98%B2%E5%A0%B1%E5%91%8A%E6%9B%B8%E5%B0%88%E5%8D%80&SelectStyle=%E6%AD%B7%E5%B9%B4%E5%9C%8B%E9%98%B2%E5%A0%B1%E5%91%8A%E6%9B%B8%E5%B0%88%E5%8D%80">歷年國防書報告專區</a>
+                        </li>
+                    </ul>
+                    <div class="seemore">
+                        <a href="Glossary.aspx?title=%E8%BB%8D%E4%BA%8B%E5%87%BA%E7%89%88%E5%93%81&SelectStyle=%E4%B8%AD%E8%8B%B1%E8%BE%AD%E5%BD%99%E5%B0%8D%E7%85%A7">查看更多</a>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <!-- ====== 以上 影音快遞 ======================================== -->
+    <div class="infoGraphic">
+        <div class="box960">
+            <div class="titlebox">
+                <div class="title">資訊圖像化</div>
+            </div>
+            <div class="navMenu">
+                <ul>
+                    <li><a href="####" id="build" class="active">國艦國造進程</a></li>
+                    <li><a href="####" id="budget">年度預算配置</a></li>
+                    <li><a href="####" id="notice">教召通知流程</a></li>
+                    <li><a href="####" id="recruit">募兵調整待遇</a></li>
+                </ul>
+            </div>
+            <div class="infoPic">
+                <img id="showPhoto" src="img/infoGraphic02.gif" alt="鑄造進程說明如後：國艦國造採「長期規劃、分批造艦、整合產業、永續經營」等策略執行。
+                    105 年至 108 年分別啟動「潛艦國造」、「兩棲船塢運輸艦」、「高效能艦艇量產」、「快速布雷艇」、「新型救難艦」、「微型飛彈突擊艇」及「新一代飛彈巡防艦」
+                    等 7 項造艦計畫。其中潛艦國造於 106 年 3 月啟動後，已完成「準備階段」、「構想設計」、「初步設計」及「合約設計」等 4 階段設計工作，
+                    並賡續執行「細部設計」，108 年 4 月完成建造採購案決標，5 月專用廠房破土興建，預劃 114 年達成原型艦交艦目標。
+                    未來持續強化在地產業聚落與供應鏈發展，並結合軍事院校及民間大學科研成效，推動產學合作；108 年預估可提升造船產業總體產值約 275 億元，
+                    有效提升造船產業的規模與總體產值。(資料來源：108年國防報告書)"
+                    class="responsive_img">
+            </div>
+        </div>
+    </div>
+    <!-- ====== 以上 資訊圖像化 ======================================== -->
+    <div id="ctl00_ContentPlaceHolder1_div_unitlink" class="unitlink">
+        <div class="box960">
+            <div class="titlebox">
+                <div class="title">軍事單位連結</div>
+            </div>
+            <div class="unit-carousel">
+                
+
+                <div class="carousel-cell">
+                    <a href="https://army.mnd.gov.tw/Pages/index.aspx" title="陸軍司令部-另開視窗" target="_blank">
+                        <img src="img/logo/list01.jpg" alt="" class="responsive_img" />陸軍司令部</a>
+                </div>
+                <div class="carousel-cell">
+                    <a href="https://navy.mnd.gov.tw/" title="海軍司令部-另開視窗" target="_blank">
+                        <img src="img/logo/list02.jpg" alt="" class="responsive_img" />海軍司令部</a>
+                </div>
+                <div class="carousel-cell">
+                    <a href="https://air.mnd.gov.tw/" title="空軍司令部-另開視窗" target="_blank">
+                        <img src="img/logo/list03.jpg" alt="" class="responsive_img" />空軍司令部</a>
+                </div>
+                <div class="carousel-cell">
+                    <a href="https://afrc.mnd.gov.tw/AfrcWeb/index.aspx" title="後備指揮部-另開視窗" target="_blank">
+                        <img src="img/logo/list04.jpg" alt="" class="responsive_img" />後備指揮部</a>
+                </div>
+                <div class="carousel-cell">
+                    <a href="https://afpc.mnd.gov.tw/" title="憲兵指揮部-另開視窗" target="_blank">
+                        <img src="img/logo/list05.jpg" alt="" class="responsive_img" />憲兵指揮部</a>
+                </div>
+                <div class="carousel-cell">
+                    <a href="https://www.ndu.edu.tw" title="國防大學-另開視窗" target="_blank">
+                        <img src="img/logo/list06.jpg" alt="" class="responsive_img" />國防大學</a>
+                </div>
+                <div class="carousel-cell">
+                    <a href="https://gpwd.mnd.gov.tw/Default.aspx" title="政治作戰局-另開視窗" target="_blank">
+                        <img src="img/logo/list07.jpg" alt="" class="responsive_img" />政治作戰局</a>
+                </div>
+                <div class="carousel-cell">
+                    <a href="https://mab.mnd.gov.tw/" title="軍醫局-另開視窗" target="_blank">
+                        <img src="img/logo/list08.jpg" alt="" class="responsive_img" />軍醫局</a>
+                </div>
+                <div class="carousel-cell">
+                    <a href="https://aodm.mnd.gov.tw/" title="全民防衛動員署-另開視窗" target="_blank">
+                        <img src="img/logo/list09.jpg" alt="" class="responsive_img" />全民防衛動員署</a>
+                </div>
+                <div class="carousel-cell">
+                    <a href="https://www.cga.gov.tw/GipOpen/wSite/mp?mp=999" title="行政院海岸巡防署-另開視窗" target="_blank">
+                        <img src="img/logo/list10.jpg" alt="" class="responsive_img" />行政院海岸巡防署</a>
+                </div>
+                <div class="carousel-cell">
+                    <a href="https://www.nca.gov.tw/" title="內政部役政署-另開視窗" target="_blank">
+                        <img src="img/logo/list11.jpg" alt="" class="responsive_img" />內政部役政署</a>
+                </div>
+                <div class="carousel-cell">
+                    <a href="https://www.nasc.gov.tw/?AspxAutoDetectCookieSupport=1" title="內政部空中勤務總隊-另開視窗" target="_blank">
+                        <img src="img/logo/list12.jpg" alt="" class="responsive_img" />內政部空中勤務總隊</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ====== 以上 軍事單位連結 ======================================== -->
+    <div id="ctl00_ContentPlaceHolder1_div_activities" class="activities">
+        <div class="box960">
+            <div class="titlebox">
+                <div class="title">相關活動連結</div>
+            </div>
+            <div class="activities-carousel">
+                
+
+
+
+                
+                        <div class="carousel-cell">
+                            <a href="https://www.fafaroc.org.tw" target="_blank" title="軍人之友社網站(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/unnamed.jpg"
+                                    alt="軍人之友社網站(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://www.vtc.gov.tw/class.php" target="_blank" title="退輔會職訓中心招生專區(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/退輔會職訓中心招生專區.jpg"
+                                    alt="退輔會職訓中心招生專區(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://pro.6000.gov.tw" target="_blank" title="全民共享普發現金(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/普發現金-大圖.jpg"
+                                    alt="全民共享普發現金(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://game.mnd.gov.tw/" target="_blank" title="全民國防有獎徵答(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/全民國防教育有獎徵答.gif"
+                                    alt="全民國防有獎徵答(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://aodm.mnd.gov.tw/front/front.aspx?menu=069&mCate=069" target="_blank" title="全民國防手冊(範本)(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/相關活動連結圖檔.jpg"
+                                    alt="全民國防手冊(範本)(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://www.ncsist.org.tw/csistdup/jobs/page03.html" target="_blank" title="菁英招募(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/1110322-附件.jpg"
+                                    alt="菁英招募(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://gazette.nat.gov.tw/egFront/index.do" target="_blank" title="行政院公報(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/2020-06-01 10_42_40-行政院公報資訊網.png"
+                                    alt="行政院公報(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://bilingual.ndc.gov.tw/" target="_blank" title="國家發展委員會雙語資料庫學習資源網(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/國家發展委員會雙語資料庫學習資源網圖1.jpg"
+                                    alt="國家發展委員會雙語資料庫學習資源網(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://www.mnd.gov.tw/Publish.aspx?p=75961&title=相關連結&SelectStyle=相關活動連結" target="_blank" title="非洲豬瘟資訊專區(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/A01_2-2.jpg"
+                                    alt="非洲豬瘟資訊專區(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://crpd.sfaa.gov.tw/" target="_blank" title="身心障礙者權利公約(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/身心障礙者權利公約（CRPD）專屬網站Banner.jpg"
+                                    alt="身心障礙者權利公約(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://www.shop.moj.gov.tw/mp.asp?mp=2" target="_blank" title="腳正機關自營商品展售商城(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/1500423786900.jpg"
+                                    alt="腳正機關自營商品展售商城(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://www.youtube.com/playlist?list=PLnCzJTTEtULAFiIZttJnQjmSkAjxiAfJI" target="_blank" title="點亮臺灣 亞洲典範(105年國慶文宣影片)(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/點亮149x57.jpg"
+                                    alt="點亮臺灣 亞洲典範(105年國慶文宣影片)(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="http://www.humanrights.moj.gov.tw" target="_blank" title="人權大步走(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/人權大步走BANNER.gif"
+                                    alt="人權大步走(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="http://www.2017twccprcescr.tw" target="_blank" title="兩公約第二次國家報告國際審查會議(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/樣式1.jpg"
+                                    alt="兩公約第二次國家報告國際審查會議(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="http://ifi.immigration.gov.tw" target="_blank" title="新住民培力發展資訊網(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/新住民培力發展資訊網.jpg"
+                                    alt="新住民培力發展資訊網(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="http://storytaiwan.tw/" target="_blank" title="國軍眷村文化(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/正式版.png"
+                                    alt="國軍眷村文化(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://www.vac.gov.tw/" target="_blank" title="國軍退除役官兵輔導委員會(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/pa.png"
+                                    alt="國軍退除役官兵輔導委員會(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="https://www.facebook.com/tfda2014.tw" target="_blank" title="食用玩家(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/face.jpg"
+                                    alt="食用玩家(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="http://terms.naer.edu.tw/" target="_blank" title="國家教育研究院雙語詞彙、學術名詞暨辭書資訊網(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/logo2.png"
+                                    alt="國家教育研究院雙語詞彙、學術名詞暨辭書資訊網(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="http://www.ey.gov.tw" target="_blank" title="政院e點通(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/361716352571.gif"
+                                    alt="政院e點通(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+                        <div class="carousel-cell">
+                            <a href="http://rdrc.mnd.gov.tw/" target="_blank" title="國軍人才招募中心(另開新視窗)">
+                                <img src="https://www.mnd.gov.tw/NewUpload/Advertisements/ad_7-n1.jpg"
+                                    alt="國軍人才招募中心(另開新視窗)" class="responsive_img" height="60" />
+                            </a>
+                        </div>
+                    
+            </div>
+        </div>
+    </div>
+    <!-- ====== 以上 相關活動連結 ======================================== -->
+
+
+            <div class="bottompicture">
+                <img src="img/bottom-bg.png" alt="">
+            </div>
+            <div class="openfatfooter">
+                <div class="open-btn" tabindex="0">
+                    <img src="img/fatfooter.png" alt="">
+                </div>
+            </div>
+            <!-- ============ 開闔 ======== -->
+            <div class="fatfooter">
+                <div class="box960">
+                    <ul class="contant-ul">
+                        <li>
+                            <div class="title">關於國防部</div>
+                            <ul class="ul-links">
+                                <li>
+                                    <a href="Publish.aspx?p=71861&title=關於國防部&SelectStyle=國防部簡介" title="國防部簡介">國防部簡介</a>
+                                </li>
+                                <li>
+                                    <a href="Publish.aspx?p=75111&title=關於國防部&SelectStyle=部長簡介" title="部長簡介">部長簡介</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="Publish.aspx?p=70181&title=關於國防部&SelectStyle=歷任部長" title="歷任部長">歷任部長</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <div class="title">國防消息</div>
+                            <ul class="ul-links">
+                                <li>
+                                    <a href="PublishTable.aspx?Types=即時軍事動態&title=國防消息" title="即時軍事動態">即時軍事動態</a>
+                                </li>
+                                <li>
+                                    <a href="PublishIframe.aspx?title=國防消息&Types=國軍輯影" title="國軍輯影">國軍輯影</a>
+                                </li>
+                                <li>
+                                    <a href="PublishIframe.aspx?title=國防消息&Types=軍事新聞" title="軍事新聞">軍事新聞</a>
+                                </li>
+                                <li>
+                                    <a href="PublishTable.aspx?title=國防消息&Types=公告專區" title="公告專區">公告專區</a>
+                                </li>
+                                <li>
+                                    <a href="PublishIframe.aspx?types=影音&title=影音快遞&SelectStyle=影音" title="影音快遞">影音快遞</a>
+                                </li>
+                                <li>
+                                    <a href="PublishTabs.aspx?parentId=65&NodeId=657&title=國防消息&SelectStyle=新聞稿" title="新聞稿">新聞稿</a>
+                                </li>
+                                <li>
+                                    <a href="PublishTable.aspx?title=國防消息&Types=即時新聞澄清專區" title="即時新聞澄清專區">即時新聞澄清專區</a>
+                                </li>
+                                <li>
+                                    <a href="PublishTabs.aspx?parentId=10021&NodeId=169009&title=國防消息&SelectStyle=常見問答集" title="常見問答集">常見問答集</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <div class="title">重要政策</div>
+                            <ul class="ul-links">
+                                <li>
+                                    <a href="PublishTable.aspx?title=募兵制專區&Types=政令宣導" title="募兵制專區">募兵制專區</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="PublishTable.aspx?Types=性平專案小組會議紀錄暨委員名冊&title=性別平等專區" title="性別平等專區">性別平等專區</a>
+                                </li>
+                                
+                                
+                                <li>
+                                    <a href="Publish.aspx?title=%E6%94%BF%E5%BA%9C%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B&Types=%E6%94%BF%E5%BA%9C%E8%B3%87%E8%A8%8A%E7%94%B3%E8%AB%8B%E6%9B%B8&SelectStyle=%E6%94%BF%E5%BA%9C%E8%B3%87%E8%A8%8A%E7%94%B3%E8%AB%8B%E6%9B%B8&p=77693" title="政府資訊公開">政府資訊公開</a>
+                                </li>
+                                <li>
+                                    <a href="PublishTable.aspx?Types=召訓構想&title=後備動員管理" title="後備動員管理">後備動員管理</a>
+                                </li>
+                                <li>
+                                    <a href="Publish.aspx?p=76645&Types=武器裝備說明專區&title=重要政策" title="武器裝備說明專區">武器裝備說明專區</a>
+                                </li>
+                                <li>
+                                    <a href="PublishTable.aspx?Types=條例&title=國防產業發展條例專區" title="國防產業發展條例專區">國防產業發展條例專區</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <div class="title">為民服務</div>
+                            <ul class="ul-links">
+                                <li>
+                                    <a href="Publish.aspx?p=75774&title=為民服務&SelectStyle=民意信箱" title="民意信箱">民意信箱</a>
+                                </li>
+                                <li>
+                                    <a href="https://rdrc.mnd.gov.tw/rdrc/index.aspx" target="_blank" title="人才招募-另開視窗">人才招募</a>
+                                </li>
+                                <li>
+                                    <a href="Publish.aspx?p=160&title=為民服務&SelectStyle=醫療服務" title="醫療服務">醫療服務</a>
+                                </li>
+                                <li>
+                                    <a href="https://afrc.mnd.gov.tw/EFR/index.aspx" target="_blank" title="後備軍人服務-另開視窗">後備軍人服務</a>
+                                </li>
+                                <li>
+                                    <a href="Publish.aspx?p=54800&title=為民服務&SelectStyle=國軍檔案應用服務區" title="國軍檔案應用服務區">國軍檔案應用服務區</a>
+                                </li>
+                                <li>
+                                    <a target="_blank" href="https://ethics.mnd.gov.tw/EditPage/?PageID=20ecd8ef-e98b-4d4b-bc6a-e2866519a3e2" title="遊說法資訊專區-另開視窗">遊說法資訊專區</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <div class="title">軍事出版品</div>
+                            <ul class="ul-links">
+                                <li>
+                                    <a href="Glossary.aspx?title=軍事出版品&SelectStyle=中英辭彙對照" title="中英辭彙對照">中英辭彙對照</a>
+                                </li>
+                                <li>
+                                    <a href="PublishMPBook.aspx?title=軍事刊物&SelectStyle=軍事期刊" title="軍事刊物">軍事刊物</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <div class="title">相關連結</div>
+                            <ul class="ul-links">
+                                <li>
+                                    <a href="PublishIframe.aspx?title=相關連結&Types=國軍機關單位" title="國軍機關單位">國軍機關單位</a>
+                                </li>
+                                <li>
+                                    <a href="PublishIframe.aspx?title=相關連結&Types=軍事院校" title="軍事院校">軍事院校</a>
+                                </li>
+                                <li>
+                                    <a href="PublishIframe.aspx?title=相關連結&Types=國軍醫院" title="國軍醫院">國軍醫院</a>
+                                </li>
+                                <li>
+                                    <a href="PublishIframe.aspx?title=相關連結&Types=國軍資訊網站" title="國軍資訊網站">國軍資訊網站</a>
+                                </li>
+                                <li>
+                                    <a href="PublishIframe.aspx?title=相關連結&Types=國防相關組織" title="國防相關組織">國防相關組織</a>
+                                </li>
+                                <li>
+                                    <a href="PublishIframe.aspx?Types=相關活動連結&title=相關連結&SelectStyle=相關活動連結" title="相關活動連結">相關活動連結</a>
+                                </li>
+                                <li>
+                                    <a href="PublishTable.aspx?Types=軍事社群專區&title=相關連結">軍事社群專區</a>
+                                </li>
+                                <li>
+                                    <a href="https://gazette.nat.gov.tw/egFront/index.do" target="_blank" title="行政院公報資訊網-另開新視窗">行政院公報資訊網</a>
+                                </li>
+                                <li>
+                                    <a href="PublishIframe.aspx?title=相關連結&Types=英語資料庫平臺" class="lastli" title="英語資料庫平臺">英語資料庫平臺</a>
+                                </li>
+                                <li>
+                                    <a href="https://data.gov.tw/" target="_blank" title="政府資料開放平臺-另開視窗">政府資料開放平臺</a>
+                                </li>
+
+                                <li>
+                                    <a href="PublishIframe.aspx?title=相關連結&Types=國軍屆退官兵「就業」及「職業訓練」相關資訊" title="國軍屆退官兵「就業」及「職業訓練」相關資訊">國軍屆退官兵「就業」<br />
+                                        及「職業訓練」相關資訊</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- ===========  fatfooter -->
+            <footer>
+                <div class="box960">
+                    <a href="#B" accesskey="B" name="B" id="B" title="頁尾宣告資訊" class="sr-only sr-only-focusable">:::</a>
+                    <ul class="footerlink">
+                        <li><a href="Publish.aspx?p=74606&title=網站聲明&Types=網站隱私權政策" title="網站隱私權政策">網站隱私權政策</a></li>
+                        <li><a href="Publish.aspx?p=74607&title=網站聲明&Types=網站安全政策宣告" title="網站安全政策宣告">網站安全政策宣告</a></li>
+                        <li><a href="Publish.aspx?p=74608&title=網站聲明&Types=政府網站資料開放宣告" title="政府網站資料開放宣告">政府網站資料開放宣告</a></li>
+                        <li><a href="Publish.aspx?p=74609&title=網站聲明&Types=個資法保護聲明" title="個資法保護聲明">個資法保護聲明</a></li>
+                        <li><a href="Publish.aspx?p=74610&title=網站聲明&Types=交通資訊導引" title="交通資訊導引">交通資訊導引</a></li>
+                    </ul>
+                    <ul class="footeraddress">
+                        <li>國防部版權所有 <i class="fa fa-copyright" aria-hidden="true"></i>&nbsp;2022&nbsp;Ministry&nbsp;of&nbsp;National&nbsp;Defense. All&nbsp;rights&nbsp;reserved.</li>
+                        <li>機關地址:104237台北市中山區北安路409號</li>
+                        <li>總機電話:(02)2311-6117(代表號)國軍人員申訴專線:1985</li>
+                        
+                        <li>網站更新日期:112/05/16</li>
+                    </ul>
+                    <div class="accessible">
+                        <a href="https://accessibility.moda.gov.tw/Applications/Detail?category=20220607093543" target='_blank' title="無障礙網站-另開新視窗">
+                            <img src="img/accessibility.jpg" alt="通過AA檢測等級無障礙網頁檢測" />
+                        </a>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </form>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-92219282-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117688925-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-117688925-1');
+    </script>
+</body>
+<script src="js/jquery-3.5.1.min.js"></script>
+
+<script src="js/bootstrap.js"></script>
+<script src="js/flickity-docs.min.js"></script>
+<script src="js/main.js"></script>
+<script async src="js/1110506fixed.js"></script>
+
+    <script src="js/popup.js"></script>
+    <script>
+        function closead() {
+            $(".ad_close").remove();
+        }
+    </script>
+
+</html>
